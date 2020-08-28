@@ -10832,6 +10832,19 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.headerLogo {
+  background-image: url(../images/d’Perfume.png);
+  background: contain;
+  width: 128px;
+  display: block;
+  text-indent: 150%;
+  overflow: hidden;
+  white-space: nowrap;
+  background-repeat: no-repeat;
+  margin: 0;
+  background-position: left center;
+}
+
 .darkBurger {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -10855,19 +10868,6 @@ a.text-dark:hover, a.text-dark:focus {
   top: -2px;
   right: 4px;
   padding: 0 6px;
-}
-
-.headerLogo {
-  background-image: url(../images/d’Perfume.png);
-  background: contain;
-  width: 128px;
-  display: block;
-  text-indent: 150%;
-  overflow: hidden;
-  white-space: nowrap;
-  background-repeat: no-repeat;
-  margin: 0;
-  background-position: left center;
 }
 
 .banner {
